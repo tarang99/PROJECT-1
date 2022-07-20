@@ -1,2 +1,3 @@
-# PROJECT-1: Real Estate Focused
-![image](https://user-images.githubusercontent.com/105663954/179636524-0b0aff1c-9a1f-4655-baea-00fbaf4584f4.png)
+# PROJECT-1: Stocks vs. Interest rates
+![image](https://user-images.githubusercontent.com/105663954/180101454-ee25dc99-4e22-4688-a9c6-686b758285c4.png)
+
